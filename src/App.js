@@ -35,7 +35,7 @@ return (
 						</h3>
 					</div>
 					<div className="profile-image rounded"></div>
-					<AudioVisualizer height="100" width="600" url="https://kenneric.com/media/music/jack-city-changing.mp3"/>
+					<AudioVisualizer height="100" width="600" url="/media/music/jack-city-changing.mp3"/>
 				</div>
 			</div>
 
