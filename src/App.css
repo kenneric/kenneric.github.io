@@ -57,7 +57,7 @@ body {
 }
 
 .app-header {
-	background-image: url("media/imgs/microphone-transparent.png");
+	background-image: url("../public/static/media/imgs/microphone-transparent.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: 100%;
@@ -119,7 +119,7 @@ body {
 
 .profile-image { 
 	margin:40px;
-	background-image: url("media/imgs/people/jack-city-transparent.png");
+	background-image: url("../public/static/media/imgs/people/jack-city-transparent.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-color: #AFF;
